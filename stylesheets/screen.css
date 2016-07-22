@@ -567,3 +567,8 @@ dd p:first-child {
   font-size: .85em;
   font-style: italic;
 }
+
+/** CUSTOM **/
+footer span.ribbon-inner p {
+  padding: 5px;
+}
