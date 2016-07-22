@@ -1,2 +1,0 @@
-# bourgeois.site
-a website.
